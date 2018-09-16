@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello, Visitors.
+
+I enjoy coding, eating pierogies, and doing pull-ups.
